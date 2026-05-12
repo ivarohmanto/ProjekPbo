@@ -13,7 +13,7 @@ public class Main {
         PrismaSegiempat prisma = new PrismaSegiempat(5, 4, 10);
         prisma.displayInfo();
         
-        System.out.println("\n=== DEMO POLYMORPHISM ===");
+        System.out.println("\n===== DEMO POLYMORPHISM =====");
         
         // Array dengan interface BangunRuang
         BangunRuang[] bangun3D = new BangunRuang[2];
